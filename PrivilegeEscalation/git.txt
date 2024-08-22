@@ -1,5 +1,14 @@
 On .git directory;
 
-'git log' --- to see recents commits.
+#To add our user to git directory and to be able see logs:
+git config --global --add safe.directory C:/GIT_PATH/.git
 
- git diff <commit1> <commit2> ---  To see differences in the code between commits.
+
+#To see recents commits.
+git log
+
+#To see differences in the code between commits.
+git diff <commit1> <commit2>
+
+#Show differences with the COMMIT_ID
+git show <COMMIT_ID>
