@@ -1,4 +1,10 @@
-On .git directory;
+### Download .git folder ###
+wget -r --no-parent https://URL/.git
+
+# -r: recursive Download
+# --no-parent: Don't download something from the parent directory
+
+### On .git directory; ###
 
 #To add our user to git directory and to be able see logs:
 git config --global --add safe.directory C:/GIT_PATH/.git
