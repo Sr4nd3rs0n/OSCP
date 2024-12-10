@@ -4,6 +4,7 @@ Tools for ThickClient:
 - CFFExplorer (ExplorerSuite)
 - DNSSpy: [https://github.com/dnSpy/dnSpy/releases](https://github.com/dnSpy/dnSpy/releases)
 - Wireshark Portable
+- NMap Installer
 - Zenmap
 - Strings
 - VB Decompiler Lite
